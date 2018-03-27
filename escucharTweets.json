@@ -1,0 +1,26 @@
+{
+  "FileStorageConfig": [
+    {
+      "outputfile_prefix": "PruebaSalidaCSVJson",
+      "tweets_per_outputfile": 10
+    }
+  ],
+  "HashTags": [
+    "#macri",
+    "#cristina",
+    "#argentina",
+    "#futbol",
+    " macri",
+    "cristina",
+    "argentina",
+    "futbol"
+  ],
+  "TwitterAPP": [
+    {
+      "access_secret": "access_secret",
+      "access_token": "access_token-KqDPF1xJSmnaHUJ4gKSLqqy8l2qMgVP",
+      "consumer_key": "consumer_key",
+      "consumer_secret": "consumer_secret"
+    }
+  ]
+}
